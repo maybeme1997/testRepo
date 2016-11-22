@@ -1,4 +1,7 @@
 1.1 Review questions
 1. This means everyone working on a project gets the whole project locally aswell.
 2. They are all compatible with Git.
-3.  this is a new line
+3. It will only commit the files in the staging area, so it will leave the unwanted changes.
+4. This means a file is modified and ready to be added to the staging area
+5. This means a file is already in the staging area.
+6.

@@ -1,4 +1,4 @@
 1.1 Review questions
 1. This means everyone working on a project gets the whole project locally aswell.
 2. They are all compatible with Git.
-3. 
+3.  this is a new line

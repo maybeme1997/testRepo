@@ -1,5 +1,5 @@
-nanas
-carrots
+bananas
+raspberries
 cherries
 oranges
 strawberries

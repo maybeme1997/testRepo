@@ -40,7 +40,7 @@ unified:
 2. It displays the two files we added and does not know what to do with them.
 3. modified, added and removed.
 6. The difference is on line 4, it will remove one line and add one.
-7. the modified one.
+7. the old already commited one.
 8. It will say that there are no changes, so a commit is unnecessary.
 9. Git will only show differences in the commits of the staged area with this flag
 10 It shows the changes of b.txt in the staged area.
@@ -86,4 +86,13 @@ I means the master has not changed and git will just point master to the latest 
 1.6
 1. When two lines are modified in both branches
 6.
+  conflict    3d16e51 changed c.txt
+* master      d237b64 [ahead 3] removed a, add b and c
+
 8.
+Auto-merging c.txt
+CONFLICT (content): Merge conflict in c.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+12. 1f5c0b9
+

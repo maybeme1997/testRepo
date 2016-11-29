@@ -8,3 +8,28 @@
 7. The branch master
 
 2.2 
+7. aa1572a
+
+8.
+error: failed to push some refs to 'https://github.com/maybeme1997/testRepo.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+
+10. fccf007
+
+11. /screenshots/aTxtHistory.PNG
+
+12.
+
+commit fccf0075e9db86be916cd23018febf0a5d18b736
+Merge: 1f73c34 5f1abea
+Author: Stern Brouwer <stern1997@hotmail.nl>
+Date:   Tue Nov 29 10:02:02 2016 +0100
+
+    resolved conflict
+
+13. a merge with the a.txt
+
+2.4

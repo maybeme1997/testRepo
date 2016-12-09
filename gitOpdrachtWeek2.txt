@@ -33,3 +33,19 @@ Date:   Tue Nov 29 10:02:02 2016 +0100
 13. a merge with the a.txt
 
 2.4
+6. /screenshot/bobsFixCommits.png
+11. /screenshot/mergedBob.PNG
+12. yes, it's equal.
+commit 841bf83226952648858b68eb327f8318c29a19b2
+Merge: b0e6a1a c84bc95
+Author: Stern Brouwer <stern1997@hotmail.nl>
+Date:   Wed Nov 30 09:18:13 2016 +0100
+
+    Merge pull request #2 from bob/bobs-fix
+
+    Bob heeft dit gemaakt
+-------------------
+
+2.5
+
+4. 20 bytes? length is 40 / 2. 40 is the length of the hash. It takes 4 bytes 
